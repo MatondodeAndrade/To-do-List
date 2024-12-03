@@ -1,0 +1,1 @@
+The To-Do List is a simple and intuitive application for task management. It allows users to add, edit, mark as completed, and delete tasks, helping them organize their daily activities more effectively. The focus is on providing a user-friendly interface and efficient functionality for tracking tasks.
